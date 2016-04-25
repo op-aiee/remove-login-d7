@@ -1,0 +1,5 @@
+name = OP Login - Hide Tabs for custom login page
+description = "OP Hide Tabs for custom login page
+core = 7.x
+package = "Online Projects Development"
+
